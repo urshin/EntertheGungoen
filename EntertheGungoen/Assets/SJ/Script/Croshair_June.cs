@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Croshair : MonoBehaviour
+public class Croshair_June : MonoBehaviour
 {
     public Rigidbody2D rb; //플레이어 리지드 바디
     private Camera _camera; //메인 카메라 받기
